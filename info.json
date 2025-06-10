@@ -1,0 +1,17 @@
+{
+
+  "gameSlug": "vrchat",
+
+  "gameName": "VRChat",
+
+  "mappingUrl": "https://github.com/smooshs/bomb/raw/refs/heads/master/DeobfuscationMap.csv.gz",
+
+  "mappingFileSHA512": "015661B6D608ACF1342AEC432A5B4F0BDF77A27C9007FA69AE5BC9217FD50692BA568DC1946F6F08E5B035A0AC1DBCADFC089D62D792B9C9C37A969C83BB25D6",
+
+  "forceCpp2IlVersion": null,
+
+  "forceUnhollowerVersion": null,
+
+  "obfuscationRegex": null
+
+}
